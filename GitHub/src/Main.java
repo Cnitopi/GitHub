@@ -16,7 +16,7 @@ public class Main{
     public static void main(String[] args)
     {
        //Criação de um objeto ex da classe Ex2
-       String s = "hfhfhf";
+       System.out.println ( "Exercicio funcionando");
         Ex2 ex = new Ex2();
        //posição da tela ao abri-la
        ex.setLocation(400,200);
